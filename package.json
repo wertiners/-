@@ -1,4 +1,6 @@
 {
+
+  
   "name": "techmarket",
   "version": "0.1.0",
   "private": true,
@@ -35,6 +37,7 @@
       "react-app/jest"
     ]
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",
@@ -48,3 +51,6 @@
     ]
   }
 }
+
+
+
